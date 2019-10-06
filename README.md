@@ -44,8 +44,7 @@ Istio can be installed by following the [Istio documentation](https://istio.io/d
 To install CloudState, run the following:
 
 ```
-kubectl create namespace cloudstate
-kubectl apply -n cloudstate -f https://github.com/cloudstateio/cloudstate/releases/download/v0.4/cloudstate-0.4.yaml
+kubectl apply -f https://raw.githubusercontent.com/cloudstateio/cloudstate/master/operator/cloudstate.yaml
 ```
 
 Now, you can install the gateway and the presence service by running the following:
