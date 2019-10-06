@@ -1,5 +1,7 @@
 # CloudState js-chat sample application
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/rEZG-Vf0qJI/0.jpg)](http://www.youtube.com/watch?v=rEZG-Vf0qJI)
+
 This is a sample application demoing using CloudState to build a chat application in Node.js.
 
 Currently, there's only one feature, user presence, but in future we will add chat room support, push notifications for chat messages, etc.
